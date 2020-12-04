@@ -80,7 +80,7 @@ that helps military veterans from Special Operations units transition into Corpo
 
 ***See requirements.txt file for full details on all associated libraries. 
 
-# Final Product. 
+# Final Product 
 
 <p float="left">
   <img align="center" src="/assets/homepage.png" width="500" />
@@ -90,7 +90,27 @@ that helps military veterans from Special Operations units transition into Corpo
 
 <p align='center'> 
   <img src="/assets/marketing.png" width="500" />
-</p>
+</p>  
+
+### Self-serve analytics platform, organized as follows:
+- **Landing page**:
+    - Links to all major Special Operations commands and Elite Meet website
+    - Site navigation to Membership, Marketing, and Growth pages
+- **Marketing page**: 
+    - Overall breakdown of marketing channels used to bring members to the Elite Meet application site
+    - Breakdown of marketing channels by tribe
+    - Breakout of markeing by time range 
+- **Growth page**: 
+    - Overall growth trends of organzation over time range
+    - Growth trends broken out by Tribe
+    - Growth segmented by time periods: month, week, day, year-over-year 
+- **Membership page**: 
+    - National map showing geographic distribution of Elite Meet members:
+        - Points clustered by city, bubble size indicates member population size 
+        - Hovering over points breaks out additional information in side bar plots:
+            - Breakdown of SOF Tribes
+            - Breakdwon by Service Branch
+            - Total member population by city 
 
 <br></br>
 # Lessons Learned/Confirmed (Along the way...) 
