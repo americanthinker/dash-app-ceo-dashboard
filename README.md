@@ -11,7 +11,7 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 - [ ] **MVP++** : Fully functioning app, modularized i.e. easy to maintain and update, and hardened for production.  User authentication required. 
 
 <p align="center">
-  <img align="center" src="/assets/datapipeline.png" width="1000" title="Analytics Pipeline">
+  <img align="center" src="/assets/analyticspipeline.png" width="1000" title="Analytics Pipeline">
 </p> 
 
 
