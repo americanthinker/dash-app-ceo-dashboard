@@ -1,6 +1,6 @@
 ## Data Analytics Dashboard for CEO of Veterans Service Organization
 <p align="center">
-  <img align="center" src="/assets/Dashboard-proto.png" width="1000" title="Dashboard prototype">
+  <img align="center" src="/assets/Dashboard-proto.png" width="800" title="Dashboard prototype">
 </p>    
 
 # Table of Contents
