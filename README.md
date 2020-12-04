@@ -45,6 +45,12 @@ that helps military veterans from Special Operations units transition into Corpo
   <img align="center" src="/assets/workflow2.png" width="1000" title="Development Workflow">
 </p> 
 
+# Final Product
+<p float="left">
+  <img src="/homepage.png" width="100" />
+  <img src="/membership.png" width="100" /> 
+  <img src="/marketing.png" width="100" />
+</p>
 <br></br>
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
