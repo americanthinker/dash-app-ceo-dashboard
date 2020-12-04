@@ -50,7 +50,9 @@ that helps military veterans from Special Operations units transition into Corpo
   <img align="center" src="/assets/homepage.png" width="500" />
   <img align="center" src="/assets/membership.png" width="500" /> 
 </p>  
-<p align='center' <img src="/assets/marketing.png" width="500" />
+<p align='center'> 
+  <img src="/assets/marketing.png" width="500" />
+</p>
 
 <br></br>
 # Lessons Learned/Confirmed (Along the way...) 
