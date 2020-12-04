@@ -33,7 +33,8 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 <br></br>
 <br></br>
 
-*** Special thanks to the following for helping me out along the way ***
+# Shout-out section
+Special thanks to the following for helping me out along the way:
 - Ron Li: for introducing me to Dash - a powerful Python framework for dashboard creation - and acting as a guide along the way
 - Ann Strange: for providing insight into the inner workings of the Salesforce platform
 - Joe Raetano: for pointing out that my initial color scheme screamed "1995"
