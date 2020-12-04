@@ -43,7 +43,32 @@ that helps military veterans from Special Operations units transition into Corpo
 # Development workflow
 <p align="center">
   <img align="center" src="/assets/workflow2.png" width="1000" title="Development Workflow">
-</p> 
+</p>  
+
+1. All worked performed locally on iMac desktop.  
+2. Saved work stored locally and in remote private Github repo. Repo is private to prevent public access to data. 
+3. Created local feature branches to work on major feature changes.  Tested in local test environment and merged to master upon successful testing. 
+4. Post-merge, app is tested in sandbox to check for deployability issues before pushing to production server.
+5. Copy of work stored in public facing repo for educational purposes. 
+
+## Tech Stack  
+
+- App development: 
+    - Python: 
+        - Dash: design, configuration, and interaction
+        - Plotly: data visualization
+        - pandas: data crunching
+    - CSS: styling
+- Data pull automation/scheduling: 
+    - Python: 
+        - REST API interaction: simple_salesforce
+    - Unix: 
+        - PM2 and cron: job scheduler and automation
+        - Bash scripting: autogenerate git push to Heroku through Heroku CLI
+- Web server, app hosting:
+    - Heroku  
+
+***See requirements.txt file for full details on all associated libraries. 
 
 # Final Product
 <p float="left">
