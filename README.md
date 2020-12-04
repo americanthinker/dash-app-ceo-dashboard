@@ -1,5 +1,5 @@
 ## Data Analytics Dashboard for CEO of Veterans Service Organization (Elite Meet)
-
+<br></br>
 <p align="center">
   <img align="center" src="/assets/Dashboard-proto.png" width="1000" title="Dashboard prototype">
 </p> 
@@ -15,12 +15,12 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 </p> 
 
 <br></br> 
-
+<br></br>
 <p align="center">
   <img align="center" src="/assets/workflow.png" width="1000" title="Development Workflow">
 </p> 
 
-
+<br></br>
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
 - Just because it works in (local) testing does not guarantee that it will work in production.
