@@ -1,6 +1,6 @@
 # Analytics Platform for CEO of Elite Meet
 <p align="center">
-  <img align="center" src="/assets/Dashboard-proto.png" width="800" title="Dashboard prototype">
+  <img align="center" src="/assets/membership.png" width="800" title="Dashboard prototype">
 </p>    
 
 # Table of Contents
