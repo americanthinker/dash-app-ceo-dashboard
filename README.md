@@ -56,9 +56,7 @@ that helps military veterans from Special Operations units transition into Corpo
 - User feedback is critical throughout the Dev process, otherwise you're just a guy wearing beer goggles who's fallen in love with the product. 
 - Persistence wins the day - always.  
 <br></br>
-<br></br>
-
-# Shout-out section!
+# Shout-out section! :wink:
 Special thanks to the following for helping me out along the way:
 - Ron Li: for introducing me to Dash - a powerful Python framework for dashboard creation - and acting as a guide along the way
 - Ann Strange: for providing insight into the inner workings of the Salesforce platform
