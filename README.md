@@ -62,6 +62,9 @@ that helps military veterans from Special Operations units transition into Corpo
 5. Copy of work stored in public facing repo for educational purposes. 
 
 ## Tech Stack  
+<p align="center">
+  <img align="center" src="/assets/techstack.png" width="600" title="Tech Stack">
+</p>  
 
 - App development: 
     - Python: 
