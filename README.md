@@ -1,11 +1,12 @@
-## Data Analytics Dashboard for CEO of Veterans Service Organization (Elite Meet)
+## Data Analytics Dashboard for CEO of Veterans Service Organization
 <p align="center">
   <img align="center" src="/assets/Dashboard-proto.png" width="1000" title="Dashboard prototype">
 </p>    
 
 # Introduction   
 
-I embarked on an analytics dashboard journey by partnering with the CEO of [Elite Meet](www.elitemeet.us) - a non-profit Veterans Service Organization (VSO) that help military veterans from Special Operations units transition into Corporate America after they leave service.  This was a full-cycle data project beginning with delivering an initial value proposition to preparing the data all the way through deployment of an analytics platform in the cloud for use by the CEO.  Here is what I learned...  
+I embarked on an analytics platform journey by partnering with the CEO of [Elite Meet](www.elitemeet.us) - a non-profit Veterans Service Organization (VSO) 
+that helps military veterans from Special Operations units transition into Corporate America after they leave service.  This was a full-cycle data project beginning with delivering an initial value proposition to preparing the data all the way through deployment of an analytics platform in the cloud for use by the CEO.  Here is what I learned...  
 <br></br>  
 # Product Roadmap   
 ## Status Quo  - The Challenge
@@ -27,7 +28,7 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 - [ ] **MVP++** : Fully functioning app, modularized i.e. easy to maintain and update, and hardened for production.  User authentication required. 
 <br></br>  
 
-# Full Cycle Analytics Pipeline
+# Full Cycle Analytics Process Map
 <p align="center">
   <img align="center" src="/assets/analyticspipeline.png" width="1000" title="Analytics Pipeline">
 </p> 
