@@ -21,5 +21,14 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 </p> 
 
 
+# Lessons Learned/Confirmed (Along the way...). 
+- Commit early, commit often  
+- Just because it works in (local) testing does not guarantee that it will work in production
+- Daft Punk + Caffeine = ANYTHING is possible
+- Read the docs, first, and then again after you have a better understanding. 
+- Leverage the knowledge/skillsets of those in your network to blast through sticking points. 
+- Sometimes, but certainly not always, the answer is as simple as a REST API call backed by a cron job, vs. newfangled, multifeatured software.   
+- Persistence wins the day
+
 
 
