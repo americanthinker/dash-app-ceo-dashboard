@@ -6,13 +6,13 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Product Roadmap](#product-roadmap)
-3. [Full Cycle Analytics Process Map](#full-cycle-analytics-process-map)
-4. [Development Workflow](#development-workflow)
-5. [Tech Stack](#tech-stack)
-6. [Final Product](#final-product)  
-7. [Recommended Next Steps](#recommended-next-steps)
-8. [Lessons Learned/Confirmed (along the way)](#lessons-learnedconfirmed-along-the-way)  
-9. [Shoutout Section!](#shout-out-section-wink)  
+    - [Full Cycle Analytics Process Map](#full-cycle-analytics-process-map)
+    - [Development Workflow](#development-workflow)
+    - [Tech Stack](#tech-stack)
+    - [Final Product](#final-product)  
+3. [Recommended Next Steps](#recommended-next-steps)
+4. [Lessons Learned/Confirmed (along the way)](#lessons-learnedconfirmed-along-the-way)  
+5. [Shoutout Section!](#shout-out-section-wink)  
 
 # Introduction   
 
