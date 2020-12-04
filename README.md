@@ -30,7 +30,7 @@ that helps military veterans from Special Operations units transition into Corpo
 
 # Full Cycle Analytics Process Map
 <p align="center">
-  <img align="center" src="/assets/analyticspipeline.png" width="1000" title="Analytics Pipeline">
+  <img align="center" src="/assets/analyticspipeline2.png" width="1000" title="Analytics Pipeline">
 </p>  
 
 1. Data entry is performed at the user level when applicants enter their information into the application form on the Elite Meet website.
