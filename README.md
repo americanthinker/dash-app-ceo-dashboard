@@ -44,7 +44,7 @@ that helps military veterans from Special Operations units transition into Corpo
 <br></br>
 # Development workflow
 <p align="center">
-  <img align="center" src="/assets/workflow.png" width="1000" title="Development Workflow">
+  <img align="center" src="/assets/workflow2.png" width="1000" title="Development Workflow">
 </p> 
 
 <br></br>
