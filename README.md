@@ -123,6 +123,7 @@ that helps military veterans from Special Operations units transition into Corpo
 - Push all components to remote i.e. Salesforce to VM to Heroku
 - Build user authentication into app (username/password)
 - Continue to gather user feedback for feature updates and new features
+- Continue to harden the app for production and look for way to increase performance
 
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
