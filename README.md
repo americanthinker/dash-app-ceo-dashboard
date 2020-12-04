@@ -53,7 +53,7 @@ that helps military veterans from Special Operations units transition into Corpo
 <br></br>
 <br></br>
 
-# Shout-out section
+# Shout-out section!
 Special thanks to the following for helping me out along the way:
 - Ron Li: for introducing me to Dash - a powerful Python framework for dashboard creation - and acting as a guide along the way
 - Ann Strange: for providing insight into the inner workings of the Salesforce platform
