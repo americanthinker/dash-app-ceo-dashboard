@@ -25,13 +25,16 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 - [x] **Minimum Viable Product (MVP)**: A single-page, working dashboard connected to a local datasource.  Dashboard is visually appealing. 
 - [x] **MVP+** : Multipage dashboard app deployed on a remote server.  Automated data pulls from original data source. 
 - [ ] **MVP++** : Fully functioning app, modularized i.e. easy to maintain and update, and hardened for production.  User authentication required. 
+<br></br>  
 
+# Full Cycle Analytics Pipeline
 <p align="center">
   <img align="center" src="/assets/analyticspipeline.png" width="1000" title="Analytics Pipeline">
 </p> 
 
 <br></br> 
 <br></br>
+# Development workflow
 <p align="center">
   <img align="center" src="/assets/workflow.png" width="1000" title="Development Workflow">
 </p> 
