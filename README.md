@@ -47,10 +47,10 @@ that helps military veterans from Special Operations units transition into Corpo
 
 # Final Product
 <p float="left">
-  <img src="/assets/homepage.png" width="200" />
-  <img src="/assets/membership.png" width="200" /> 
-  <img src="/assets/marketing.png" width="200" />
+  <img align="center" src="/assets/homepage.png" width="400" />
+  <img align="center" src="/assets/membership.png" width="400" /> 
 </p>  
+<img align="center" src="/assets/marketing.png" width="400" />
 
 <br></br>
 # Lessons Learned/Confirmed (Along the way...) 
