@@ -52,8 +52,8 @@ that helps military veterans from Special Operations units transition into Corpo
 - Daft Punk + Caffeine = ANYTHING is possible
 - Read the docs, first, and then again after you have a better understanding. 
 - Leverage the knowledge/skillsets of those in your network to blast through sticking points. 
-- Sometimes, but certainly not always, the answer is as simple as a REST API call backed by a cron job, vs. newfangled, multifeatured software.  
-- User feedback is critical throughout the Dev process, otherwise your just a guy with beer goggles on who's fallen in love with the product. 
+- Sometimes, but certainly not always, the best answer is as simple as a REST API call, backed by a cron job, vs. newfangled, multifeatured software.  
+- User feedback is critical throughout the Dev process, otherwise you're just a guy wearing beer goggles who's fallen in love with the product. 
 - Persistence wins the day - always.  
 <br></br>
 <br></br>
