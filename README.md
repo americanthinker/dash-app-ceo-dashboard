@@ -93,7 +93,7 @@ that helps military veterans from Special Operations units transition into Corpo
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
 - Just because it works in (local) testing does not guarantee that it will work in production.
-- [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) + Caffeine = ANYTHING is possible
+- [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) :sound: + Caffeine = ANYTHING is possible
 - Read the docs, first, and then again after you have a better understanding. 
 - Leverage the knowledge/skillsets of those in your network to blast through sticking points. 
 - Sometimes, but certainly not always, the best answer is as simple as a REST API call, backed by a [cron](https://en.wikipedia.org/wiki/Cron) job, vs. newfangled, multifeatured software.  
@@ -106,6 +106,6 @@ Special thanks to the following for helping me out along the way:
 - [Ann Strange](https://www.linkedin.com/in/ann-strange/): for providing insight into the inner workings of the Salesforce platform
 - Joe R.: for pointing out that my initial color scheme screamed "1995"
 - Kayla Thomas and Sam G.: for insightful feedback along the way  
-- My wife: for letting me escape into my dev cave for two weeks straight
+- My wife: for letting me escape into my dev cave :tent: for two weeks straight
 
 
