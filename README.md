@@ -50,7 +50,8 @@ that helps military veterans from Special Operations units transition into Corpo
   <img src="/homepage.png" width="100" />
   <img src="/membership.png" width="100" /> 
   <img src="/marketing.png" width="100" />
-</p>
+</p>  
+
 <br></br>
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
