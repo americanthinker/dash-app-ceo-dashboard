@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Plotly.js
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
+
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#border {
+    border-bottom: 1.5px solid lightgrey;
+}
+/* Scattermaps
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#scatter-div {
+    margin: 1.5rem 0 0 0;
+}
+
+#scatter-div-2 {
+    margin: 1.5rem 0 0 0;
+}
+
+/* Graph
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#bar-chart-div {
+    margin: 1.5rem 0 0 0;
+}
+
+#bar-chart-div2 {
+    margin: 1.5rem 0 0 0;
+}
+
+/* Dropdown
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.Select-value {
+    cursor: pointer;
+}
+
+.Select-control {
+    color: #7fafdf !important;
+}
+
+.Select {
+    color: #7fafdf !important;
+}
+
+.Select-menu-outer {
+    background-color: #252e3f !important;
+    border: 1px solid #7fafdf !important;
+}
+
+.Select div {
+    background-color: #252e3f !important;
+    margin-left: 15px;
+}
+
+.Select-menu-outer div:hover {
+    background-color: rgba(255, 255, 255, 0.01) !important;
+    cursor: pointer;
+}
+
+.Select-value-label {
+    color: #7fafdf !important;
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+}
+
+/* Placement
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.mt-3 {
+    margin-left: 25px;
+    color: lightgrey;
+}
