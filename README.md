@@ -16,7 +16,7 @@
 
 I embarked on an analytics platform journey by partnering with the CEO of [Elite Meet](www.elitemeet.us) - a non-profit Veterans Service Organization (VSO) 
 that helps military veterans from Special Operations units transition into Corporate America after they leave service.  This was a [full-cycle data project](https://hdsr.mitpress.mit.edu/pub/577rq08d/release/3) beginning with delivering an initial value proposition to preparing the data all the way through deployment of an analytics platform in the cloud for use by the CEO.  Here is what I learned...  
-<br></br>  
+
 # Product Roadmap   
 - ## Status Quo  - The Challenge
 
