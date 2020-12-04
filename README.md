@@ -31,7 +31,14 @@ that helps military veterans from Special Operations units transition into Corpo
 # Full Cycle Analytics Process Map
 <p align="center">
   <img align="center" src="/assets/analyticspipeline.png" width="1000" title="Analytics Pipeline">
-</p> 
+</p>  
+
+1. Data entry is performed at the user level when applicants enter their information into the application form on the Elite Meet website.
+2. The raw data is then stored in a cloud Salesforce instance.
+3. Data is automatically pulled from Salesforce on a daily basis through their REST API. Schedule manager is PM2.
+4. Data is cleaned and transformed on-site through an automated script and pushed to Heroku server on a daily basis.
+5. Data is programatically further transformed through the Dash app on the Heroku server.  Git push to Heroku automatically generates the rebuild.
+6. End user (CEO) can access the app website on Heroku at any time of day.   
 
 <br></br> 
 <br></br>
