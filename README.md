@@ -6,12 +6,12 @@
 # Introduction   
 
 I embarked on an analytics platform journey by partnering with the CEO of [Elite Meet](www.elitemeet.us) - a non-profit Veterans Service Organization (VSO) 
-that helps military veterans from Special Operations units transition into Corporate America after they leave service.  This was a full-cycle data project beginning with delivering an initial value proposition to preparing the data all the way through deployment of an analytics platform in the cloud for use by the CEO.  Here is what I learned...  
+that helps military veterans from Special Operations units transition into Corporate America after they leave service.  This was a [full-cycle data project](https://hdsr.mitpress.mit.edu/pub/577rq08d/release/3) beginning with delivering an initial value proposition to preparing the data all the way through deployment of an analytics platform in the cloud for use by the CEO.  Here is what I learned...  
 <br></br>  
 # Product Roadmap   
 ## Status Quo  - The Challenge
 
-- Data resides in a SalesForce database.  Data is dirty and requires multiple transformation to derive insights. 
+- Data resides in a Salesforce database.  Data is dirty and requires multiple transformation to derive insights. 
 - Current analytics/decision support is manual and time-consuming, i.e. not scalable or dynamic
 - CEO does not have time to conduct manual data pulls and sort through data for insight, i.e. needs answers at her fingertips
 
@@ -33,12 +33,12 @@ that helps military veterans from Special Operations units transition into Corpo
   <img align="center" src="/assets/analyticspipeline3.png" width="1000" title="Analytics Pipeline">
 </p>  
 
-1. Data entry is performed at the user level when applicants enter their information into the application form on the Elite Meet website.
+1. Data entry is performed at the user level when applicants enter their information into the application form on the [Elite Meet website](https://elitemeetus.org/).
 2. The raw data is then stored in a cloud Salesforce instance.
-3. Data is automatically pulled from Salesforce on a daily basis through their REST API. Schedule manager is PM2.
-4. Data is cleaned and transformed on-site through an automated script and pushed to Heroku server on a daily basis.
-5. Data is programatically further transformed through the Dash app on the Heroku server.  Git push to Heroku automatically generates the rebuild.
-6. End user (CEO) can access the app website on Heroku at any time of day.   
+3. Data is automatically pulled from Salesforce on a daily basis through their REST API. Schedule manager is [PM2](https://pm2.keymetrics.io/).
+4. Data is cleaned and transformed on-site through an automated script and pushed to [Heroku](https://heroku.com) server on a daily basis.
+5. Data is programatically further transformed through the [Dash](https://plotly.com/dash/) app on the Heroku server.  Git push to Heroku automatically generates the rebuild.
+6. End user (CEO) can access the app website on [Heroku](https://heroku.com)at any time of day.   
 <br></br>
 # Development workflow
 <p align="center">
@@ -49,19 +49,19 @@ that helps military veterans from Special Operations units transition into Corpo
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
 - Just because it works in (local) testing does not guarantee that it will work in production.
-- Daft Punk + Caffeine = ANYTHING is possible
+- [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) + Caffeine = ANYTHING is possible
 - Read the docs, first, and then again after you have a better understanding. 
 - Leverage the knowledge/skillsets of those in your network to blast through sticking points. 
-- Sometimes, but certainly not always, the best answer is as simple as a REST API call, backed by a cron job, vs. newfangled, multifeatured software.  
-- User feedback is critical throughout the Dev process, otherwise you're just a guy wearing beer goggles who's fallen in love with the product. 
+- Sometimes, but certainly not always, the best answer is as simple as a REST API call, backed by a [cron](https://en.wikipedia.org/wiki/Cron) job, vs. newfangled, multifeatured software.  
+- User feedback is critical throughout the Dev process, otherwise you're just a guy wearing [beer goggles](https://www.alcohol.org/effects/beer-goggles/) who's fallen in love with the product. 
 - Persistence wins the day - always.  
 <br></br>
 # Shout-out section! :wink:
 Special thanks to the following for helping me out along the way:
-- Ron Li: for introducing me to Dash - a powerful Python framework for dashboard creation - and acting as a guide along the way
-- Ann Strange: for providing insight into the inner workings of the Salesforce platform
-- Joe Raetano: for pointing out that my initial color scheme screamed "1995"
-- Kayla Thomas and Sam Giampapa: for insightful feedback along the way  
+- [Ron Li](https://www.linkedin.com/in/ron-li-6531bb1b7/): for introducing me to [Dash](https://plotly.com/dash/) - a powerful Python framework for dashboard creation - and acting as a guide along the way
+- [Ann Strange](https://www.linkedin.com/in/ann-strange/): for providing insight into the inner workings of the Salesforce platform
+- Joe R.: for pointing out that my initial color scheme screamed "1995"
+- Kayla Thomas and Sam G.: for insightful feedback along the way  
 - My wife: for letting me escape into my dev cave for two weeks straight
 
 
