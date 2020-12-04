@@ -10,8 +10,10 @@
 5. [Development Workflow](#development-workflow)
 6. [Tech Stack](#tech-stack)
 7. [Final Product](#final-product)
-8. [Lessons Learned/Confirmed (along the way)](#lessons-learnedconfirmed-along-the-way)
-9. [Shoutout Section!](#shout-out-section-wink)
+8. [Recommended Next Steps](#recommended-next-steps)
+9. [Lessons Learned/Confirmed (along the way)](#lessons-learnedconfirmed-along-the-way)
+10. [Shoutout Section!](#shout-out-section-wink)  
+
 # Introduction   
 
 I embarked on an analytics platform journey by partnering with the CEO of [Elite Meet](www.elitemeet.us) - a non-profit Veterans Service Organization (VSO) 
@@ -102,9 +104,9 @@ that helps military veterans from Special Operations units transition into Corpo
 - **Marketing page**: 
     - Overall breakdown of marketing channels used to bring members to the Elite Meet application site
     - Breakdown of marketing channels by tribe
-    - Breakout of markeing by time range 
+    - Breakout of marketing by time range 
 - **Growth page**: 
-    - Overall growth trends of organzation over time range
+    - Overall growth trends of organization over time range
     - Growth trends broken out by Tribe
     - Growth segmented by time periods: month, week, day, year-over-year 
 - **Membership page**: 
@@ -112,10 +114,16 @@ that helps military veterans from Special Operations units transition into Corpo
         - Points clustered by city, bubble size indicates member population size 
         - Hovering over points breaks out additional information in side bar plots:
             - Breakdown of SOF Tribes
-            - Breakdwon by Service Branch
-            - Total member population by city 
+            - Breakdown by Service Branch
+            - Total member population by city  
 
-<br></br>
+# Recommended Next Steps 
+- Revamp application form so that organization is getting clean data from the start of the data cycle
+- Database refresh to include data updates from dirty to clean data
+- Push all components to remote i.e. Salesforce to VM to Heroku
+- Build user authentication into app (username/password)
+- Continue to gather user feedback for feature updates and new features
+
 # Lessons Learned/Confirmed (Along the way...) 
 - Commit early, commit often.  
 - Just because it works in (local) testing does not guarantee that it will work in production.
