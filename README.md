@@ -39,8 +39,6 @@ that helps military veterans from Special Operations units transition into Corpo
 4. Data is cleaned and transformed on-site through an automated script and pushed to Heroku server on a daily basis.
 5. Data is programatically further transformed through the Dash app on the Heroku server.  Git push to Heroku automatically generates the rebuild.
 6. End user (CEO) can access the app website on Heroku at any time of day.   
-
-<br></br> 
 <br></br>
 # Development workflow
 <p align="center">
