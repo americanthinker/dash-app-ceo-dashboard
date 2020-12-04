@@ -17,7 +17,7 @@ I embarked on an analytics dashboard journey by partnering with the CEO of [Elit
 <br></br> 
 
 <p align="center">
-  <img align="center" src="/assets/devworkflow.png" width="1000" title="Development Workflow">
+  <img align="center" src="/assets/workflow.png" width="1000" title="Development Workflow">
 </p> 
 
 
