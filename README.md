@@ -81,7 +81,7 @@ that helps military veterans from Special Operations units transition into Corpo
 ***See requirements.txt file for full details on all associated libraries. 
 
 # Final Product
-<p float="left">
+<p align="center">
   <img align="center" src="/assets/homepage.png" width="500" />
   <img align="center" src="/assets/membership.png" width="500" /> 
 </p>  
