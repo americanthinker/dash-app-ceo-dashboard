@@ -88,13 +88,13 @@ that helps military veterans from Special Operations units transition into Corpo
 # Final Product 
 
 <p float="left">
-  <img align="center" src="/assets/homepage.png" width="35%" />
-  <img align="center" src="/assets/membership.png" width="35%" /> 
+  <img align="center" src="/assets/homepage.png" width="45%" />
+  <img align="center" src="/assets/membership.png" width="45%" /> 
 </p> 
 
 
 <p align='center'> 
-  <img src="/assets/marketing.png" width="35%" />
+  <img src="/assets/marketing.png" width="45%" />
 </p>  
 
 ### Self-serve analytics platform, organized as follows:
