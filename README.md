@@ -36,7 +36,7 @@ that helps military veterans from Special Operations units transition into Corpo
 - ## The Solution 
 :white_check_mark: **Minimum Viable Product (MVP)**: A single-page, working dashboard connected to a local datasource.  Dashboard is visually appealing.  
 
-:white_check_mark: **MVP+** : Multipage dashboard app deployed on a remote server.  Automated data pulls from original data source. Platforim is fully interactive.  
+:white_check_mark: **MVP+** : Multipage dashboard app deployed on a remote server.  Automated data pulls from original data source. Platform is fully interactive.  
 
 :white_check_mark: **MVP++** : Fully functioning app, modularized i.e. easy to maintain and update, and hardened for production.  User authentication required. 
 <br></br>  
