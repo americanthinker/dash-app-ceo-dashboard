@@ -87,7 +87,7 @@ that helps military veterans from Special Operations units transition into Corpo
 
 # Final Product 
 
-<p float="left">
+<p align="center">
   <img align="center" src="/assets/homepage.png" width="45%" />
   <img align="center" src="/assets/membership.png" width="45%" /> 
 </p> 
