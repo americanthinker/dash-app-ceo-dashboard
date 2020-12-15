@@ -1,4 +1,4 @@
-# Analytics Platform for CEO of Elite Meet
+# Analytics Platform for CEO of non-profit organization
 <p align="center">
   <img align="center" src="/assets/membership.png" width="800" title="Dashboard prototype">
 </p>    
