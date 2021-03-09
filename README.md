@@ -126,15 +126,6 @@ that helps military veterans from Special Operations units transition into Corpo
 - Continue to gather user feedback for feature updates and new features
 - Continue to harden the app for production and look for way to increase performance
 
-# Lessons Learned/Confirmed (Along the way...) 
-- Commit early, commit often.  
-- Just because it works in (local) testing does not guarantee that it will work in production.
-- [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) :sound: + Caffeine = ANYTHING is possible
-- Read the docs, first, and then again after you have a better understanding. 
-- Leverage the knowledge/skillsets of those in your network to blast through sticking points. 
-- Sometimes, but certainly not always, the best answer is as simple as a REST API call, backed by a [cron](https://en.wikipedia.org/wiki/Cron) job, vs. newfangled, multifeatured software.  
-- User feedback is critical throughout the Dev process, otherwise you're just a guy wearing [beer goggles](https://www.alcohol.org/effects/beer-goggles/) who's fallen in love with the product. 
-- Persistence wins the day - always.  
 <br></br>
 # Shout-out section! :wink:
 Special thanks to the following for helping me out along the way:
